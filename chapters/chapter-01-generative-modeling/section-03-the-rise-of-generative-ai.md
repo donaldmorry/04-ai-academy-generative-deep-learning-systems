@@ -112,11 +112,11 @@ The through-line: **learn a distribution, sample from it, condition on user inte
 
 | Prerequisite | Contribution to generative AI
 |-------------|------------------------------|
-| [Course 1 - Neural networks](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-09-neural-networks/README.md) | Function approximators for $P_\theta(x)$ |
-| [Course 2 - Probabilistic reasoning](https://github.com/Collaborative-ai/ai-academy-artificial-intelligence-modern-approach/blob/main/chapters/chapter-13-probabilistic-reasoning/README.md) | Bayes, graphical models, inference |
-| [Course 3 - Probability & info theory](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) | KL divergence, MLE, entropy - loss functions for VAEs |
-| [Course 3 - Autoencoders](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-14-autoencoders/README.md) | Precursor to VAEs |
-| [Course 3 - Deep generative models](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-20-deep-generative-models/README.md) | Theoretical foundation for this entire course |
+| [Course 1 - Neural networks](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-09-neural-networks/README.md) | Function approximators for $P_\theta(x)$ |
+| [Course 2 - Probabilistic reasoning](https://github.com/donaldmorry/02-ai-academy-artificial-intelligence-modern-approach/blob/main/chapters/chapter-13-probabilistic-reasoning/README.md) | Bayes, graphical models, inference |
+| [Course 3 - Probability & info theory](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) | KL divergence, MLE, entropy - loss functions for VAEs |
+| [Course 3 - Autoencoders](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-14-autoencoders/README.md) | Precursor to VAEs |
+| [Course 3 - Deep generative models](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-20-deep-generative-models/README.md) | Theoretical foundation for this entire course |
 
 Course 4 is where theory meets the systems you read about in tech news.
 

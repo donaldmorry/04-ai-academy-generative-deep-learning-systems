@@ -215,8 +215,8 @@ Unlike GANs, you get a principled density estimate (on the quantized domain). Un
 
 | Concept | Link |
 |---------|------|
-| ResNet skip connections | [Course 3 CNNs](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-09-convolutional-networks/README.md) |
-| MLE / cross-entropy | [Course 3 probability](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) |
+| ResNet skip connections | [Course 3 CNNs](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-09-convolutional-networks/README.md) |
+| MLE / cross-entropy | [Course 3 probability](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) |
 | Fashion-MNIST | [Section 3.1](../chapter-03-variational-autoencoders/section-01-autoencoder-architecture.md) |
 | Mixture output upgrade | [Section 5.8](./section-08-mixture-distributions-for-pixelcnn.md) |
 

@@ -170,7 +170,7 @@ The **math** (affine coupling, log-det, alternating masks) is unchanged. Master 
 |---------|------|
 | RealNVP layers | [Section 6.3](./section-03-realnvp-architecture.md) |
 | NLL training | [Section 6.5](./section-05-training-realnvp.md) |
-| sklearn datasets | [Course 1](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-01-machine-learning/README.md) |
+| sklearn datasets | [Course 1](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-01-machine-learning/README.md) |
 | Multimodality | [Chapter 01 taxonomy](../chapter-01-generative-modeling/section-07-generative-model-taxonomy.md) |
 
 ---

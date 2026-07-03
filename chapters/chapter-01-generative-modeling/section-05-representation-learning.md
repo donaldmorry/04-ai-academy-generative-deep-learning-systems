@@ -28,7 +28,7 @@ If a [generative model](../../GLOSSARY.md#generative-model) tried to memorize ev
 | Words | Token embeddings | Semantic meaning, analogies |
 | Audio waveform | Spectrogram latents | Timbre, pitch, tempo |
 
-In [Course 3, Chapter 15](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-15-representation-learning/README.md), Goodfellow formalizes this as learning a mapping $f(x)$ that makes downstream tasks easier. In generative modeling, representations serve a dual purpose: **compression** and **generation**.
+In [Course 3, Chapter 15](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-15-representation-learning/README.md), Goodfellow formalizes this as learning a mapping $f(x)$ that makes downstream tasks easier. In generative modeling, representations serve a dual purpose: **compression** and **generation**.
 
 ---
 
@@ -115,7 +115,7 @@ autoencoder.compile(optimizer="adam", loss="binary_crossentropy")
 
 This is **not yet generative** - a standard autoencoder learns a compressed representation but does not define a distribution over $z$. You cannot sample random $z$ values and expect meaningful images.
 
-**Bold milestone:** The jump from autoencoder to **VAE** (Variational Autoencoder) - adding $P(z)$ and making sampling work - is [Chapter 03](../chapter-03-variational-autoencoders/README.md). You previewed autoencoders in [Course 3, Chapter 14](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-14-autoencoders/README.md).
+**Bold milestone:** The jump from autoencoder to **VAE** (Variational Autoencoder) - adding $P(z)$ and making sampling work - is [Chapter 03](../chapter-03-variational-autoencoders/README.md). You previewed autoencoders in [Course 3, Chapter 14](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-14-autoencoders/README.md).
 
 ---
 
@@ -190,7 +190,7 @@ Representation learning is typically **unsupervised** - no labels required. The 
 - Directions (smile, age, lighting)
 - Disentanglement (ideally, one latent dimension = one factor)
 
-This connects to [Course 1, Section 1.3](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-01-machine-learning/section-03-supervised-vs-unsupervised-learning.md) and k-means clustering - but neural representations are far richer than centroid-based clusters.
+This connects to [Course 1, Section 1.3](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-01-machine-learning/section-03-supervised-vs-unsupervised-learning.md) and k-means clustering - but neural representations are far richer than centroid-based clusters.
 
 ---
 

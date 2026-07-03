@@ -33,7 +33,7 @@ Before you begin, confirm:
 
 CPU-only works for [Section 1.4](./section-04-our-first-generative-model.md) (coin flip) and small experiments. From [Chapter 03](../chapter-03-variational-autoencoders/README.md) onward, a GPU is effectively required.
 
-You should already be comfortable with TensorFlow/Keras from [Course 1, Chapters 08-09](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-08-deep-learning/README.md).
+You should already be comfortable with TensorFlow/Keras from [Course 1, Chapters 08-09](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-08-deep-learning/README.md).
 
 ---
 

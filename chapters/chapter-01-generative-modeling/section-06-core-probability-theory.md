@@ -13,7 +13,7 @@ Every [generative model](../../GLOSSARY.md#generative-model) is a probability di
 
 If you speak probability fluently, the rest of this course is architecture - engineering choices around the same mathematical skeleton.
 
-You built foundations in [Course 3, Chapter 03](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) and [Course 2, Chapter 13](https://github.com/Collaborative-ai/ai-academy-artificial-intelligence-modern-approach/blob/main/chapters/chapter-13-probabilistic-reasoning/README.md). This section collects the exact formulas generative deep learning uses daily.
+You built foundations in [Course 3, Chapter 03](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) and [Course 2, Chapter 13](https://github.com/donaldmorry/02-ai-academy-artificial-intelligence-modern-approach/blob/main/chapters/chapter-13-probabilistic-reasoning/README.md). This section collects the exact formulas generative deep learning uses daily.
 
 ---
 
@@ -163,7 +163,7 @@ $$
 $$
 > **Readable form:** MAP estimate maximizes posterior: likelihood times prior over parameters.
 
-The prior $P(\theta)$ acts as **regularization**. L2 weight decay in neural networks corresponds to a Gaussian prior on weights - a bridge to [Course 3, Chapter 07](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-07-regularization/README.md).
+The prior $P(\theta)$ acts as **regularization**. L2 weight decay in neural networks corresponds to a Gaussian prior on weights - a bridge to [Course 3, Chapter 07](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-07-regularization/README.md).
 
 ---
 

@@ -133,9 +133,9 @@ Transformers (Chapter 9 in Foster) are the modern autoregressive backbone — Ch
 
 | Concept | Link |
 |---------|------|
-| Chain rule / probability | [Course 3, Chapter 03](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) |
+| Chain rule / probability | [Course 3, Chapter 03](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) |
 | MLE | [Chapter 01](../chapter-01-generative-modeling/section-04-our-first-generative-model.md) |
-| RNN basics | [Course 1, Chapter 13](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-13-natural-language-processing/section-04-recurrent-neural-networks.md) |
+| RNN basics | [Course 1, Chapter 13](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-13-natural-language-processing/section-04-recurrent-neural-networks.md) |
 
 ---
 

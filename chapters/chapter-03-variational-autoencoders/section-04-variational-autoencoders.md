@@ -169,8 +169,8 @@ Blur is the VAE's famous trade-off: Gaussian decoder assumptions and KL pressure
 
 | Concept | Link |
 |---------|------|
-| KL divergence | [Course 3, Chapter 03](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) |
-| Latent variable models | [Course 2, Chapter 13](https://github.com/Collaborative-ai/ai-academy-artificial-intelligence-modern-approach/blob/main/chapters/chapter-13-probabilistic-reasoning/README.md) |
+| KL divergence | [Course 3, Chapter 03](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) |
+| Latent variable models | [Course 2, Chapter 13](https://github.com/donaldmorry/02-ai-academy-artificial-intelligence-modern-approach/blob/main/chapters/chapter-13-probabilistic-reasoning/README.md) |
 | Reparameterization | [Section 3.5](./section-05-vae-loss-and-reparameterization.md) |
 
 ---

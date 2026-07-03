@@ -40,7 +40,7 @@ x = layers.Embedding(total_words, embedding_size)(text_in)
 | `total_words` | 10000 | Vocab coverage vs softmax size |
 | `embedding_size` | 100 | Capacity vs parameters |
 
-Embeddings are **learned end-to-end** — no need for pretrained GloVe in Foster's example (unlike [Course 1 NLP](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-13-natural-language-processing/README.md)).
+Embeddings are **learned end-to-end** — no need for pretrained GloVe in Foster's example (unlike [Course 1 NLP](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-13-natural-language-processing/README.md)).
 
 ---
 

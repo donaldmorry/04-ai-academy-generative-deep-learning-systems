@@ -119,7 +119,7 @@ p_U(u) = p_X(g^{-1}(u)) \left| \frac{dx}{du} \right|
 $$
 > **Readable form:** The expression assigns probability to the event or value using the stated model assumptions.
 
-Flows are the multivariate neural-parameterized version ([Course 3, Chapter 03](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md)).
+Flows are the multivariate neural-parameterized version ([Course 3, Chapter 03](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md)).
 
 ---
 

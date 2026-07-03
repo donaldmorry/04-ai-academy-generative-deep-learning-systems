@@ -24,7 +24,7 @@ The mathematical distinction is clean:
 | **Discriminative** | $P(y \mid x)$ or $f(x) \to y$ | "Given this input, what is the label?" |
 | **Generative** | $P(x)$ or $P(x \mid y)$ | "What does data look like? Can I create more?" |
 
-You met discriminative models throughout [Course 1](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/README.md): logistic regression, SVMs, neural classifiers. This course is about becoming Chef B.
+You met discriminative models throughout [Course 1](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/README.md): logistic regression, SVMs, neural classifiers. This course is about becoming Chef B.
 
 ---
 
@@ -102,7 +102,7 @@ $$
 
 where the evidence $P(x) = \sum_y P(x \mid y) P(y)$.
 
-This is **Naive Bayes** in [Course 1, Chapter 03](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-03-classification-models/README.md) - a generative classifier. You model each class's word distribution, then invert with Bayes.
+This is **Naive Bayes** in [Course 1, Chapter 03](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-03-classification-models/README.md) - a generative classifier. You model each class's word distribution, then invert with Bayes.
 
 | Approach | Pros | Cons
 |----------|------|------|

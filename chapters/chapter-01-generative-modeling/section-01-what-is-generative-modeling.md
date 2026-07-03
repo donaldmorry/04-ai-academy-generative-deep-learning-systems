@@ -117,7 +117,7 @@ You will study this distinction deeply in [Section 1.2](./section-02-generative-
 
 A generative model *can* do classification (via Bayes' rule), but a discriminative model cannot paint you a picture. That asymmetry is why generative AI feels like magic - and why this course exists.
 
-If you trained a cat/dog classifier in [Course 1, Chapter 03](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-03-classification-models/README.md), you built a discriminative model. This course teaches you to build the forger.
+If you trained a cat/dog classifier in [Course 1, Chapter 03](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-03-classification-models/README.md), you built a discriminative model. This course teaches you to build the forger.
 
 ---
 
@@ -139,10 +139,10 @@ These challenges motivate every architecture in Part II - VAEs, GANs, flows, aut
 
 | Concept | Where you learned it | How it applies here
 |---------|---------------------|---------------------|
-| Probability basics | [Course 3, Chapter 03](https://github.com/Collaborative-ai/ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) | $P(x)$, Bayes, MLE are the language of generative models |
-| Neural networks | [Course 1, Chapters 08-09](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-08-deep-learning/README.md) | Deep nets parameterize $P_\theta(x)$ |
-| Unsupervised learning | [Course 1, Section 1.3](https://github.com/Collaborative-ai/ai-academy-applied-ml-engineering/blob/main/chapters/chapter-01-machine-learning/section-03-supervised-vs-unsupervised-learning.md) | Most generative training uses unlabeled data |
-| Bayesian reasoning | [Course 2, Chapter 13](https://github.com/Collaborative-ai/ai-academy-artificial-intelligence-modern-approach/blob/main/chapters/chapter-13-probabilistic-reasoning/README.md) | Priors, posteriors, and latent variables |
+| Probability basics | [Course 3, Chapter 03](https://github.com/donaldmorry/03-ai-academy-deep-learning-foundations/blob/main/chapters/chapter-03-probability-information-theory/README.md) | $P(x)$, Bayes, MLE are the language of generative models |
+| Neural networks | [Course 1, Chapters 08-09](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-08-deep-learning/README.md) | Deep nets parameterize $P_\theta(x)$ |
+| Unsupervised learning | [Course 1, Section 1.3](https://github.com/donaldmorry/01-ai-academy-applied-ml-engineering/blob/main/chapters/chapter-01-machine-learning/section-03-supervised-vs-unsupervised-learning.md) | Most generative training uses unlabeled data |
+| Bayesian reasoning | [Course 2, Chapter 13](https://github.com/donaldmorry/02-ai-academy-artificial-intelligence-modern-approach/blob/main/chapters/chapter-13-probabilistic-reasoning/README.md) | Priors, posteriors, and latent variables |
 
 ---
 
